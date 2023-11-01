@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/HrestikiNolik/static/css/main.8e98e9aa.css",
+    "main.js": "/HrestikiNolik/static/js/main.1b90417e.js",
+    "static/media/bg-pattern-dark.png": "/HrestikiNolik/static/media/bg-pattern-dark.f2c6e30a2a887881a35c.png",
+    "index.html": "/HrestikiNolik/index.html",
+    "main.8e98e9aa.css.map": "/HrestikiNolik/static/css/main.8e98e9aa.css.map",
+    "main.1b90417e.js.map": "/HrestikiNolik/static/js/main.1b90417e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e98e9aa.css",
+    "static/js/main.1b90417e.js"
+  ]
+}
